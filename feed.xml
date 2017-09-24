@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FCF4BE86-1B0D-43C5-91EA-6183C2AD957F</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-09-13T13:04:45-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8407D2E1-60C1-446A-A1E4-245D7CF482D3</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">8407D2E1-60C1-446A-A1E4-245D7CF482D3</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2012-09-13T13:04:45.002-07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5FDF3CE9-D163-46EC-A712-A177D7D37B25</id>
+  <title>Events</title>
+  <title xmlns="urn:iweb:">Events</title>
+  <in-navbar xmlns="urn:iweb:">5FDF3CE9-D163-46EC-A712-A177D7D37B25</in-navbar>
+  <link rel="alternate" href="Events.html"/>
+  <updated>2012-09-13T13:04:45.001-07:00</updated>
+  <content>Events</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2460C773-9B43-4263-87D7-D4E39D23E2BC</id>
+  <title>BadFacts</title>
+  <title xmlns="urn:iweb:">BadFacts</title>
+  <in-navbar xmlns="urn:iweb:">2460C773-9B43-4263-87D7-D4E39D23E2BC</in-navbar>
+  <link rel="alternate" href="BadFacts.html"/>
+  <updated>2012-09-13T13:04:45.008-07:00</updated>
+  <content>BadFacts</content>
+ </entry>
+  <entry>
+  <id>urn:iweb:B0D5F89E-5789-4716-BB0D-3280D27DDB3B</id>
+  <title>Strategy</title>
+  <title xmlns="urn:iweb:">Strategy</title>
+  <in-navbar xmlns="urn:iweb:">B0D5F89E-5789-4716-BB0D-3280D27DDB3B</in-navbar>
+  <link rel="alternate" href="Strategy.html"/>
+  <updated>2012-09-13T13:04:45.009-07:00</updated>
+  <content>Strategy</content>
+ </entry>
+<entry>
+  <id>urn:iweb:3A6E9B52-DBD6-46BA-9A39-858A4ED75EB4</id>
+  <title>Media</title>
+  <title xmlns="urn:iweb:">Media</title>
+  <in-navbar xmlns="urn:iweb:">3A6E9B52-DBD6-46BA-9A39-858A4ED75EB4</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2012-09-13T13:04:45.004-07:00</updated>
+  <content>Media</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BD1AE4E7-AC60-4490-A71D-E5DB448BED50</id>
+  <title>Members</title>
+  <title xmlns="urn:iweb:">Members</title>
+  <in-navbar xmlns="urn:iweb:">BD1AE4E7-AC60-4490-A71D-E5DB448BED50</in-navbar>
+  <link rel="alternate" href="Roster.html"/>
+  <updated>2012-09-13T13:04:45.003-07:00</updated>
+  <content>Members</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AD1AE4E7-AC60-4490-A71D-E5DB448BED50</id>
+  <title>Feedback</title>
+  <title xmlns="urn:iweb:">Feedback</title>
+  <in-navbar xmlns="urn:iweb:">AD1AE4E7-AC60-4490-A71D-E5DB448BED50</in-navbar>
+  <link rel="alternate" href="Feedback.html"/>
+  <updated>2013-09-13T13:04:45.003-07:00</updated>
+  <content>Feedback</content>
+ </entry>
+</feed>
